@@ -1,0 +1,1 @@
+{"name":"Local: max_elements","url":"/Users/apple/Downloads/questions/Recursion/assign1/max_elements.cpp","tests":[{"id":1762350419316,"input":"5\n2 5 7 8 35","output":"35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Downloads/questions/Recursion/assign1/max_elements.cpp","group":"local","local":true}
